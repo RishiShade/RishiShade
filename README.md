@@ -1,114 +1,122 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=hey%2C+i'm+rishi+%F0%9F%91%8B;i+build+things+that+shouldn't+exist+yet.;sleep-deprived+%26+dangerous+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0f0f23,60:1a0533,100:050505&height=200&section=header&text=RISHI&fontSize=90&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=builder%20%C2%B7%20breaker%20%C2%B7%20barely%20sleeping&descSize=16&descAlignY=75&descColor=888888" />
+
+</div>
 
 <br/>
 
-<!-- Banner / Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7928ca&height=120&section=header&animation=fadeIn"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=full-stack+dev+%C2%B7+11th+grade+%C2%B7+not+waiting+for+college;building+an+AI+ecosystem+from+scratch;my+best+commits+happen+after+midnight;yes+the+startup+is+real.+no+it's+not+on+product+hunt+yet.)](https://github.com/RishiShade)
 
 </div>
 
+<br/>
+
 ---
 
-## `> whoami`
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```ts
-const rishi = {
-  grade       : "11th · PCM",
-  building    : ["a startup", "an AI ecosystem", "something the world isn't ready for"],
-  stack       : ["Python", "React", "TypeScript", "Node.js", "PHP"],
-  superpower  : "turning 2AM half-asleep thoughts into actual products",
-  weakness    : "anime + k-dramas (they said it's a problem. i call it R&D)",
-  currentMood : "⚡ compiling ideas faster than i can ship them",
-};
+### `01` — the human behind the handle
+
+I'm Rishi. 16. Building things that *probably* shouldn't exist yet.
+
+I don't have a 5-year plan —
+I have a **6-hour sleep schedule** and a list of ideas
+that somehow keeps getting longer.
+
+My stack is full. My calendar is not.
+My code runs at 2AM. So do I.
+
+Currently shipping an **AI ecosystem** —
+not a side project, not a prototype.
+*A thing.* A real, functioning thing.
+
+Anime and K-Dramas taught me that the best products,
+like the best stories, need **conflict, stakes, and a twist ending.**
+I write code the same way.
+
+> *"ship fast. break things.*
+> *pretend you meant to."*
+
+</td>
+<td width="45%" valign="top">
+
+### `02` — the stack
+
+```yaml
+language: [Python, TypeScript, PHP]
+frontend: [React, Next.js, HTML/CSS]
+backend:  [Node.js, Express, FastAPI]
+learning: [system design, LLMs, infra]
+obsessed: [AI, distributed systems]
+
+grade:          "11th PCM"
+location:       "Patna, Bihar → internet"
+startup_status: "stealth mode 🕶️"
+sleep:          "lol"
+
+fuel:
+  - anime        # not negotiable
+  - k-drama      # plot twists = R&D
+  - chai          # obviously
 ```
 
-> _I don't have a roadmap. I have a **radar** — and something's always pinging._
+</td>
+</tr>
+</table>
 
 ---
 
-## `> cat about.md`
-
-I'm a **full-stack developer** and **11th grader** who missed the memo that you're supposed to wait until college to build things.
-
-I live at the intersection of **AI**, **system design**, and **"wait, what if we just—"** moments.  
-My best ideas don't arrive at my desk — they ambush me somewhere between exhausted and asleep. I've stopped fighting it. I just keep the editor open.
-
-Right now I'm building an **AI ecosystem** — not because someone asked me to,  
-but because the gap between what AI *could* be and what most people *build with it* keeps me up at night.  
-(That, and the anime. But mostly the AI thing.)
-
-Anime and K-Dramas aren't a distraction — they're a **masterclass in storytelling**.  
-Every product I build has a narrative arc. Conflict. Stakes. Resolution.  
-If your UI doesn't have tension, does it even have a plot?
-
----
-
-## `> ls skills/`
+### `03` — numbers that update themselves
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00D9FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00D9FF)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00D9FF)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00D9FF)
-![AI/ML](https://img.shields.io/badge/AI%2FML-0d1117?style=for-the-badge&logo=openai&logoColor=7928ca)
-![System Design](https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logo=amazonecs&logoColor=7928ca)
-
-</div>
-
----
-
-## `> git log --oneline`
-
-```
-⚡ feat: turned a tired idea into a real product (again)
-🧠 build: expanded the AI ecosystem — still no ceiling in sight
-🎌 refactor: rewatched attack on titan for "research purposes"
-🚀 init: started a startup before most people start studying
-💀 fix: slept. briefly. shipped anyway.
-```
-
----
-
-## `> cat stats.md`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishiraj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=7928ca&text_color=c9d1d9&border_color=30363d"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiraj&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&border_color=30363d"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RishiShade&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiShade&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a78bfa&text_color=e2e8f0&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rishiraj&theme=dark&background=0d1117&border=30363d&ring=00D9FF&fire=7928ca&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RishiShade&hide_border=true&background=0d0d0d&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=e2e8f0)](https://github.com/RishiShade)
+
+</div>
+
+<div align="center">
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiShade&bg_color=0d0d0d&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true)](https://github.com/RishiShade)
 
 </div>
 
 ---
 
-## `> cat currently_running.sh`
+### `04` — what's cooking
 
-```bash
-$ ./startup --mode=stealth --stage=building
-$ ./ai_ecosystem --scale=ambitious --sleep=optional
-$ ./ideas --source=2am --filter=none --ship=yes
+```
+◉  AI ecosystem          ████████████░░░░  active  
+◉  startup v1            ████████░░░░░░░░  building
+◉  more side projects    ██████░░░░░░░░░░  always
+○  sleep schedule        ██░░░░░░░░░░░░░░  theoretical
 ```
 
 ---
 
-## `> ping me`
+### `05` — find me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00D9FF)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=7928ca)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7928ca)](https://yoursite.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/rishishade)
+[![Twitter](https://img.shields.io/badge/twitter-%230d0d0d.svg?style=for-the-badge&logo=x&logoColor=a78bfa)](https://x.com/rishishade)
+[![Email](https://img.shields.io/badge/email-%230d0d0d.svg?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:your@email.com)
+
+*open for collabs · vibe checks welcome · recruiters from the future: especially you*
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RishiShade.RishiShade&style=flat-square&color=7c3aed)
 
 </div>
 
@@ -116,12 +124,8 @@ $ ./ideas --source=2am --filter=none --ship=yes
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:00d9ff,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:1a0533,100:050505&height=80&section=footer&animation=fadeIn"/>
 
-```
-// open for collabs · building in public · always one idea away from a new repo
-```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rishiraj.rishiraj&style=flat-square&color=00d9ff)
+<sub>coded between classes · fueled by chai · powered by stubbornness · <a href="https://github.com/RishiShade">@RishiShade</a></sub>
 
 </div>
